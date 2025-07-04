@@ -1,0 +1,6 @@
+diffusers
+transformers
+torch
+accelerate
+fastapi
+uvicorn
